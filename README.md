@@ -19,7 +19,7 @@ In doing so the bar charts shown will change depending on the selected drug.
 Remember you can filter by both drug and year.
 ![Alt text](image-1.png)
 
-Under the graph you will be able to see another buttong with a dropdown menu, this menu controls the data displayed on the map.
+Under the graph you will be able to see another button with a dropdown menu, this menu controls the data displayed on the map.
 After selecting a year you can continue to interact with the map, if you hover the cursor over one of the circles a marker will appear displaying the number of deaths per state. Also note that the colors of the circles vary from state to state and year to year. The darker the circle, the more deaths the state had.
 ![Alt text](image-2.png)
 Under the map you will find a button with a dropdown menu, this button controls the last 4 charts of the website, that means that selecting a year will cause a change in the las 4 visualizations. (Overdose deaths by race/ ethnicity, by age, by sex and by drug clases).
